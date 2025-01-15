@@ -3,10 +3,10 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleoaaraujo%2Fleoaaraujo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-alves-de-araujo/)
-<!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/leo_adearaujo/)](https://www.instagram.com/leo_adearaujo) -->
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:leo.alvesdearaujo@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://github.com/leoaaraujo/articles)](https://github.com/leoaaraujo/articles)
 [![Github](https://img.shields.io/github/followers/leoaaraujo?label=Follow&style=social)](https://github.com/leoaaraujo)
+<!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/leo_adearaujo/)](https://www.instagram.com/leo_adearaujo) -->
 
 - 💻 I’m currently working on Red Hat.
 - 💬 Ask me about Red Hat, Openshift, Ansible and Observability solutions.
